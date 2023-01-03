@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+nav {
+  color: blue;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+
