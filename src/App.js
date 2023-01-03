@@ -1,6 +1,7 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import Main from "./components/Main";
+import Card from "./components/Card";
+import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 
 
@@ -10,6 +11,8 @@ function App() {
     <div className="App">
       {/* <header className="App-header"> */}
       <Navbar />
+      <Hero />
+      <Card />
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         {/* <p>
           Edit <code>src/App.js</code> and save to reload.
